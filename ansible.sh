@@ -22,4 +22,4 @@ sudo apt install ansible -y
 echo "###############################"
 
 echo "ansible version"
-ansible -version
+ansible --version
